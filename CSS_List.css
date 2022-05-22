@@ -1,0 +1,41 @@
+ol {
+	list-style-type: upper-roman;
+	}
+
+.red {
+	color:red;
+}
+
+.orange {
+	color:orange;
+}
+
+
+.yellow {
+	color:yellow;
+}
+
+.green {
+	color:green;
+}
+
+
+.blue {
+	color:blue;
+}
+
+
+.violet {
+	color:violet;
+}
+
+	
+ul {
+	list-style-type: square;
+	color: grey
+}
+
+h3 {
+	color: purple;
+	text-shadow: 1px 0.5px grey;
+}
