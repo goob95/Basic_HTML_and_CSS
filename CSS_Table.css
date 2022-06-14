@@ -1,0 +1,18 @@
+table {
+	border: 2px solid Coral;
+}
+
+td:hover {
+	background-color: (102, 27, 0);
+	color: BlanchedAlmond;
+}
+
+tr, th {
+	background-color: Coral;
+	color: DarkBlue;
+}
+
+tr, td {
+	background-color: BlueViolet;
+	color: DarkBlue;
+}
